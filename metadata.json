@@ -1,0 +1,9 @@
+{
+  "uuid": "Custom_Format_Clock@makotothedragon.com",
+  "shell-version": [
+    "3.20.4"
+  ],
+  "settings-schema": "org.gnome.shell.extensions.custom-format-clock",
+  "name": "Custom Format Clock",
+  "description": "Specify your own format string for the GNOME 3 desktop clock and have it displayed."
+}

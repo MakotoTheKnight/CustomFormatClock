@@ -1,0 +1,11 @@
+<schemalist gettext-domain="custom-format-clock">
+    <schema id="org.gnome.shell.extensions.custom-format-clock" path="/org/gnome/shell/extensions/custom-format-clock/">
+        <key name="panel-clock-format" type="s">
+            <default>'%A, %e %B %Y | %l:%M:%S %p'</default>
+            <summary>Specify your custom date format.</summary>
+            <description>Specify your custom date format. Follow basic strftime guidelines in format - including the use
+                of %.
+            </description>
+        </key>
+    </schema>
+</schemalist>
